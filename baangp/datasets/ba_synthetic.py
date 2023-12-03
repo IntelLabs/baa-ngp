@@ -125,7 +125,7 @@ class SubjectLoader(torch.utils.data.Dataset):
                 root_fp, subject_id, split, factor=factor
             )
         assert images.shape[1:3] == (self.RAW_HEIGHT//factor, self.RAW_WIDTH//factor)
-        self.width, self.height = images.shape[1:3]
+        self.height, self.width = images.shape[1:3]
         K = torch.tensor(
             [
                 [self.focal, 0, self.width / 2.0],
