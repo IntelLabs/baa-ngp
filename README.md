@@ -1,4 +1,4 @@
-#  BAA:sheep:-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives
+#  BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives
 This repository contains the official Implementation for "BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives".
 
 # Installation
