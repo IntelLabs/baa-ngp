@@ -22,9 +22,6 @@ Tested on `NVIDIA A100` and `NVIDIA RTX3090`.
     ```
     python baangp/train_baangp.py --scene [lego] --data-root [your_data_root] --save-dir [your_save_dir] --c2f 0.1 0.5
     ```
-## LLFF dataset
-
-Coming soon.
 
 # Acknowledgements
 

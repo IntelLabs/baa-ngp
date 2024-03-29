@@ -1,7 +1,7 @@
-pandas==2.0.3
-imageio==2.31.1
-tqdm==4.65.0
-easydict==1.10
-matplotlib==3.7.2
-lpips==0.1.4
-torchmetrics==1.0.0
+pandas
+imageio
+tqdm
+easydict
+matplotlib
+lpips
+torchmetrics

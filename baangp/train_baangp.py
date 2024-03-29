@@ -10,7 +10,7 @@ import os
 import time
 import torch
 import torch.nn.functional as F
-from torchmetrics import StructuralSimilarityIndexMeasure, MultiScaleStructuralSimilarityIndexMeasure
+from torchmetrics.image import StructuralSimilarityIndexMeasure, MultiScaleStructuralSimilarityIndexMeasure
 import torchvision.transforms.functional as torchvision_F
 import tqdm
 from datasets.ba_synthetic import SubjectLoader
