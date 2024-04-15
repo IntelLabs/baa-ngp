@@ -33,9 +33,9 @@ If you use this code for your research, please cite our paper [BAA-NGP: Bundle-A
 ```bibtex
 @article{liu2023baangp,
   title={BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives.},
-  author={Sainan Liu and Shan Lin and Jingpei Lu and Shreya Saha and Alexey Supikov and Michael Yip},
-  journal={arXiv preprint arXiv:2306.04166},
-  year={2023}
+  author={Sainan Liu and Shan Lin and Jingpei Lu and Alexey Supikov and Michael Yip},
+  journal={CVPRW},
+  year={2024}
 }
 ```
 
